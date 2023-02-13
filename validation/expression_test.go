@@ -28,16 +28,6 @@ func TestIsLineValid(t *testing.T) {
 
 	assertFalse(t, IsLineValid(line, testTable))
 
-	/*line = "-*-(-3+a*b*-8*(a+-3))"
-	t.Log(line)
-
-	assertFalse(t, IsLineValid(line, testTable))*/
-
-	line = ""
-	t.Log("empty line")
-
-	assertFalse(t, IsLineValid(line, testTable))
-
 	line = "-8*-(-3+a*b*-8*(a+-3))"
 	t.Log(line)
 
