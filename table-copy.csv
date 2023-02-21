@@ -1,26 +1,24 @@
-E;{8, 3, a, b, -, (};false;true;1;true;false
-T;{8, 3, a, b, -, (};false;true;3;true;false
-EXPA;{+, .};false;true;6;false;false
-T;{8, 3, a, b, -, (};false;true;4;true;false
-F;{8, 3, a, b, -, (};false;true;11;true;false
-TA;{*};false;true;21;false;false
-EXPA;{+, .};false;true;7;true;false
-+;{+};true;false;-1;false;false
-T;{8, 3, a, b, -, (};false;true;3;true;false
-EXPA;{+, .};false;true;7;true;false
-.;{.};false;true;-1;false;true
-F;{8, 3, a, b, -, (};false;true;12;true;false
--;{-};true;false;-1;false;false
-a;{a};true;false;-1;false;false
-b;{b};true;false;-1;false;false
+S;{8, 3, a, b, -, (};false;true;1;false;false
+E;{8, 3, a, b, -, (};false;true;3;true;false
+.;{.};true;true;-1;false;true
+E;{8, 3, a, b, -, (};false;true;4;false;false
+T;{8, 3, a, b, -, (};false;true;11;true;false
+EXPA;{), +, .};false;true;6;false;false
+.;{.};true;false;-1;false;false
+);{)};true;false;-1;false;false
++;{+};true;true;3;false;false
+T;{8, 3, a, b, -, (};false;true;11;true;false
+A;{), +, .};false;true;6;false;false
+T;{8, 3, a, b, -, (};false;true;12;false;false
+F;{8, 3, a, b, -, (};false;true;17;true;false
+TA;{*, ), .};false;true;14;false;false
+.;{.};false;false;-1;false;false
+);{)};false;false;-1;false;false
+*;{*};true;true;12;false;false
+F;{8, 3, a, b, -, (};false;true;18;false;false
 8;{8};true;false;-1;false;false
 3;{3};true;false;-1;false;false
-(;{(};true;false;-1;true;false
-E;{8, 3, a, b, -,  (};false;true;0;true;false
-);{)};true;true;-1;true;false
-TA;{8, 3, a, b, -, (};false;true;12;false;false
-V;{*};false;true;22;false;false
-*;{*};true;false;-1;true;false
-TA;{8, 3, a, b, -, (};false;true;11;true;false
-V;{*};false;true;21;true;false
-.;{.};false;true;-1;false;true
+a;{a};true;false;-1;false;false
+b;{b};true;false;-1;false;false
+-;{-};true;false;17;false;false
+(;{(};true;true;4;false;false

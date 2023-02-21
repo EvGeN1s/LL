@@ -7,7 +7,7 @@ import (
 	"fmt"
 )
 
-const tableFilePath = "table.csv"
+const tableFilePath = "table-copy.csv"
 const line = "-8*--(---3+a*b*--8*(a+--3))"
 const newLine = "((a))"
 
